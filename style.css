@@ -1,0 +1,30 @@
+   body{
+       width: 60%;
+       margin: 0 auto;
+   }
+   div{
+       border: 1px solid black;
+       margin-bottom: 25px;
+       padding: 0px 25px 30px;
+   }
+   a:visited{
+       text-decoration: blink;
+       color: blue;
+   }
+   a{
+       text-decoration: none;
+   }
+   a:hover{
+       text-decoration: underline;
+   }
+   h1{
+       font: bold 24px "Times New Roman";
+   }
+   p{
+       font: 16px "Times New Roman";
+       text-align: justify;
+   }
+   .right{
+       text-align: right;
+       margin-right: 20px;
+   }
